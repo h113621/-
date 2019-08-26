@@ -1,4 +1,2 @@
 # -
-Game novice
-
-Hi Humans!
+Game
